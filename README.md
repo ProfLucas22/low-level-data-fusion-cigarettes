@@ -216,9 +216,9 @@ The scripts also export session information files to document the R version and 
 
 The archived version of this repository is available at Zenodo:
 
-https://doi.org/10.5281/zenodo.20219595
+https://doi.org/10.5281/zenodo.20222180
 
-DOI: 10.5281/zenodo.20219595
+DOI: 10.5281/zenodo.20222180
 
 ## Citation
 
@@ -226,7 +226,7 @@ If you use this repository, please cite the archived version available at Zenodo
 
 Suggested citation:
 
-Rodrigues, L. S.; Massone, C. G.; Godoy, J. M. O. R scripts and processed datasets for classification of commercial cigarettes using inorganic, organic/isotopic, and low-level data fusion models. Version 1.0.0. Zenodo, 2026. DOI: 10.5281/zenodo.20219595.
+Rodrigues, L. S.; Massone, C. G.; Godoy, J. M. O. R scripts and processed datasets for classification of commercial cigarettes using inorganic, organic/isotopic, and low-level data fusion models. Version 1.0.1. Zenodo, 2026. DOI: 10.5281/zenodo.20222180.
 
 ## License
 
