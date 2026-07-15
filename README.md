@@ -1,6 +1,6 @@
 # R scripts and processed datasets for classification of commercial cigarettes using inorganic, organic/isotopic, and low-level data fusion models
 
-This repository contains the R scripts and processed datasets used to reproduce the chemometric analyses reported in the manuscript submitted to *Microchemical Journal*.
+This repository contains the R scripts and processed datasets used to reproduce the chemometric analyses reported in the manuscript submitted to *Results in Chemistry*.
 
 The repository includes three independent R workflows:
 
